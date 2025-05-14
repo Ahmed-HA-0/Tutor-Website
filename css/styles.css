@@ -8,7 +8,7 @@
 
 html,
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   scroll-behavior: smooth;
   line-height: 1.6;
   /* height: 8000px; */
@@ -70,7 +70,8 @@ img {
   max-width: 750px;
   margin: 0px auto 3rem;
   text-align: center;
-  background-color: rgb(249, 250, 251);
+  /* padding: 1rem 1rem;
+  background-color: rgb(249, 250, 251); */
 }
 
 .section-topic h2 {
@@ -233,7 +234,7 @@ img {
 
 .hero {
   background-color: black;
-  background: url("../images/stats-background.jpg") no-repeat center/cover;
+  background: url('../images/stats-background.jpg') no-repeat center/cover;
   overflow-x: hidden;
   padding: 11.5rem 2rem 15rem;
   position: relative;
@@ -373,7 +374,7 @@ img {
   margin: 5rem 0;
 }
 .info-container {
-  background: url("../images/nikola-tesla-cartoon-character-white-background_1308-81372.jpg")
+  background: url('../images/nikola-tesla-cartoon-character-white-background_1308-81372.jpg')
     no-repeat left/contain;
   display: flex;
   /* background-size: 600px 600px; */
@@ -487,7 +488,7 @@ img {
 
 .stats {
   margin-top: 4rem;
-  background: url("../images/stats-background.jpg") no-repeat center/cover;
+  background: url('../images/stats-background.jpg') no-repeat center/cover;
   padding: 4rem 0;
 }
 
